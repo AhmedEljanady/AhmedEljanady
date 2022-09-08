@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedEljanady
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, JavaScript
+- 💞️ I’m looking to collaborate on Back-end dev
 - 📫 How to reach me ...
 
 <!---
