@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedEljanady
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on Back-end dev
 - 📫 How to reach me ...
 
