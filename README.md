@@ -7,7 +7,6 @@
 - Phone: +201095904579
 - Email: ahmed.janady13@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/ahmed-khaled-dev](https://www.linkedin.com/in/ahmed-khaled-dev)
-- GitHub: [https://github.com/AhmedEljanady](https://github.com/AhmedEljanady)
 
 ### Objective
 As a self-motivated learner and a career shifter from the medical sector to software development seeking a challenging position in a reputable company to use my knowledge in Full Stack development and enhance my skills in software engineering while contributing to the company’s growth.
@@ -42,18 +41,18 @@ Credit hours system, Assiut University
 09/2014 – 06/2019
 
 ### Skills Summary
-- Professional in building server-side applications using Node.Js, Express.Js and MongoDB and client-side applications using React.Js.
-- Knowledgeable in Object-Oriented Concepts and Data Structures and Algorithms.
-- Knowledgeable in both relational and non-relational database design and development using MongoDB and MySQL.
-- Knowledgeable in web and user interface development using HTML, SASS, Bootstrap, Tailwind, and using WordPress.
-- Knowledgeable using Git and GitHub and Linux operating system (Ubuntu).
-- Aware of programming using C/C++.
+- Professional in building server-side applications using **Node.Js**, **Express.Js** and **MongoDB** and client-side applications using **React.Js**.
+- Knowledgeable in **Object-Oriented Concepts**, **Data Structures** and **Algorithms**.
+- Knowledgeable in both **relational** and **non-relational** database design and development using **MongoDB** and **MySQL**.
+- Knowledgeable in web and user interface development using **HTML, SASS, Bootstrap, Tailwind**, and using **WordPress**.
+- Knowledgeable using **Git** and **GitHub** and **Linux** operating system (Ubuntu).
+- Aware of programming using **C/C++.**
 - Aware of operating Systems, Network fundamentals, software engineering.
 - Skilled at learning new tools and technologies.
 - Ability to detect defects and troubleshoot their root cause them come up with an optimum solution while critical deadlines.
-
+<!-- 
 ### Projects
-All my projects can be found in my GitHub repo: [https://github.com/AhmedEljanady](https://github.com/AhmedEljanady)
+All my projects can be found in my GitHub repo: [https://github.com/AhmedEljanady](https://github.com/AhmedEljanady) -->
 
 ### Courses
 - The Complete JavaScript Course 2023: From Zero to Expert! (69 h)
